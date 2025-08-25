@@ -6,3 +6,4 @@ scipy
 preprocessing
 matplotlib
 seaborn
+cvxopt
