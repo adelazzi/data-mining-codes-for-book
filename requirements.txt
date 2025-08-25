@@ -4,3 +4,5 @@ scikit-learn
 imbalanced-learn
 scipy
 preprocessing
+matplotlib
+seaborn
