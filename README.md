@@ -118,6 +118,6 @@ Contributions welcome! Found a better implementation? Discovered a new use case?
 
 *This grimoire is crafted for educational purposes. Use its power responsibly.*
 
-[![Star this repository](https://img.shields.io/github/stars/your-username/data-mining-book?style=social)](https://github.com/your-username/data-mining-book)
+[![Star this repository](https://img.shields.io/github/stars/your-username/data-mining-book?style=social)](https://github.com/adelazzi/data-mining-codes-for-book.git)
 
 </div>
