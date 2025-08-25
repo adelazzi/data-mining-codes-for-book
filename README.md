@@ -24,19 +24,23 @@ data-mining-book/
 │   ├── decision_trees.py         # The branching path of choices
 │   ├── knn.py                    # The wisdom of the nearest neighbors
 │   ├── naive_bayes.py            # The simple, yet powerful, prophecy
-│   ├── svm.py                    # The art of finding the perfect boundary
-│   └── evaluation_metrics.py     # The scales of judgment
+│   └── svm.py                    # The art of finding the perfect 
 ├── 📁 clustering/                # Spells for discovering the unknown
 │   ├── kmeans.py                 # The seeker of central points
 │   ├── pam.py                    # The discerning medoid summoner
 │   ├── agnes.py                  # The builder of hierarchical realms
 │   ├── dbscan.py                 # The finder of dense constellations
 │   └── clara.py                  # The sharp-eyed clarity bringer
-├── 📁 datasets/                  # The raw ingredients for your potions
+├── 📁 datasets/                  # The raw ingredients for your experiments
 │   ├── small/                    # For quick practice
 │   ├── medium/                   # For more potent brews
 │   └── large/                    # For grand rituals
-├── 📁 utils/                     # Magical utilities and helpers
+├── 📁 preprocessing/             # Preparing data for the spells
+│   ├── dimensionality_reduction.py # Shrinking dimensions wisely
+│   ├── encoding_categories.py    # Translating categories into numbers
+│   └── handling_missing_values.py # Filling the voids in your data
+├── 📁 plots/                     # Visualizing your magical results
+│   └── box_plot.py               # Summoning box plots for insights
 ├── requirements.txt              # Mystical components to gather
 └── README.md                     # This grimoire's introduction
 ```
